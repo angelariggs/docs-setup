@@ -13,7 +13,7 @@ This project contains [ADMIN] [DEVELOPER] [USER] documentation that is built usi
 
 The docs directory within a project repo would be as below:
 
-```
+```javascript
 project root
       |_ docs-setup
               |_ docs
