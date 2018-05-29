@@ -18,7 +18,7 @@ project root
       |_ docs-setup
               |_ docs
                     |_ admin
-                            |_ img
+                          |_ img
                     |_ css
                           |_ extra.css
                     |_ dev
