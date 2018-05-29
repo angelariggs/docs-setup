@@ -1,0 +1,34 @@
+/* For _slight_ customizations */
+
+/* Override with Metal Toad brand colors */
+.navbar-default {
+  border: 0;
+  background-color: rgb(241, 95, 34);
+}
+
+a {
+  color: rgb(241, 95, 34);
+}
+
+a:hover {
+  color: rgb(88, 88, 91);
+}
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>li>a:hover,
+.navbar-default .navbar-nav>li>a:focus {
+  background-color: rgb(226, 83, 34);
+}
+
+.navbar-default .navbar-nav>.disabled>a,
+.navbar-default .navbar-nav>.disabled>a:hover,
+.navbar-default .navbar-nav>.disabled>a:focus {
+  color: rgb(187, 189, 192);
+}
+
+/* Add border to images so screenshots look like they have a place */
+img {
+  border: 1px solid black;
+}

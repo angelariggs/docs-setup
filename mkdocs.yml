@@ -1,0 +1,13 @@
+site_name: PROJECT_NAME Documentation
+pages:
+  - Home: index.md
+  - User Guide:
+    - Overview: user/index.md
+  - Administrator Guide:
+    - Overview: admin/index.md
+  - Development Guide:
+    - Overview: dev/index.md
+theme: united
+extra_css:
+  - css/extra.css
+site_dir: docsite
