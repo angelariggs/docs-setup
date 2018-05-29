@@ -1,7 +1,7 @@
 /* For _slight_ customizations */
 
-/* Override with Metal Toad brand colors */
-.navbar-default {
+/* Override with brand colors */
+/*.navbar-default {
   border: 0;
   background-color: rgb(241, 95, 34);
 }
@@ -27,7 +27,7 @@ a:hover {
 .navbar-default .navbar-nav>.disabled>a:focus {
   color: rgb(187, 189, 192);
 }
-
+*/
 /* Add border to images so screenshots look like they have a place */
 img {
   border: 1px solid black;
