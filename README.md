@@ -1,7 +1,7 @@
 # Contents of This File
 
 - [User Documentation](#user-documentation)
-    - [Docs Directory Structure & Setup](#docs-directory-structure-and-setup)
+    - [Docs Directory Structure & Setup](#docs-directory-structure--setup)
     - [Writing Documentation](#writing-documentation)
     - [Adding Docs to the Repo](#adding-docs-to-the-repo)
 
