@@ -1,12 +1,12 @@
 site_name: PROJECT_NAME Documentation
 pages:
   - Home: index.md
-  - User Guide:
-    - Overview: user/index.md
-  - Administrator Guide:
+  - Administrator Docs:
     - Overview: admin/index.md
-  - Development Guide:
+  - Development Docs:
     - Overview: dev/index.md
+  - User Docs:
+    - Overview: user/index.md
 theme: united
 extra_css:
   - css/extra.css
